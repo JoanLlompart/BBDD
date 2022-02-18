@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "4e2d982471183c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be155e053e20f0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SQL.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09493c91d72a33a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fabcef3ae359ed47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68eb4aac371d574e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3dc4fe31c4922972",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad1a48f3f47a866",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff0939bc4a3ecb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "080159f7dad73218",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5be155e053e20f0f",
+  "lastOpenFiles": [
+    "SQL.md",
+    "Relaciones.md",
+    "Polisportivo Entidad-Relacion a relacional.md"
+  ]
+}
